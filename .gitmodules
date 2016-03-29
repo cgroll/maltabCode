@@ -1,0 +1,3 @@
+[submodule "commonUtilities"]
+	path = commonUtilities
+	url = git@github.com:cgroll/commonUtilities.git
