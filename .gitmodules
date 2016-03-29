@@ -1,3 +1,6 @@
 [submodule "commonUtilities"]
 	path = commonUtilities
 	url = git@github.com:cgroll/commonUtilities.git
+[submodule "finDataMatlab/private_data"]
+	path = finDataMatlab/private_data
+	url = git@gitlab.com:cgroll/private_data.git
