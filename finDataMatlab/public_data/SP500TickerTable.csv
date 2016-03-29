@@ -1,0 +1,505 @@
+Ticker_symbol,Security,GICS_Sector,GICS_Sub_Industry
+MMM,3M Company,Industrials,Industrial Conglomerates
+ABT,Abbott Laboratories,Health Care,Health Care Equipment &amp; Services
+ABBV,AbbVie,Health Care,Pharmaceuticals
+ACN,Accenture plc,Information Technology,IT Consulting &amp; Other Services
+ATVI,Activision Blizzard,Information Technology,Home Entertainment Software
+ADBE,Adobe Systems Inc,Information Technology,Application Software
+ADT,ADT Corp,Industrials,Diversified Commercial Services
+AAP,Advance Auto Parts,Consumer Discretionary,Automotive Retail
+AES,AES Corp,Utilities,Independent Power Producers &amp; Energy Traders
+AET,Aetna Inc,Health Care,Managed Health Care
+AFL,AFLAC Inc,Financials,Life &amp; Health Insurance
+AMG,Affiliated Managers Group Inc,Financials,Asset Management &amp; Custody Banks
+A,Agilent Technologies Inc,Health Care,Health Care Equipment &amp; Services
+GAS,AGL Resources Inc.,Utilities,Gas Utilities
+APD,Air Products &amp; Chemicals Inc,Materials,Industrial Gases
+ARG,Airgas Inc,Materials,Industrial Gases
+AKAM,Akamai Technologies Inc,Information Technology,Internet Software &amp; Services
+AA,Alcoa Inc,Materials,Aluminum
+AGN,Allergan plc,Health Care,Pharmaceuticals
+ALXN,Alexion Pharmaceuticals,Health Care,Biotechnology
+ALLE,Allegion,Industrials,Building Products
+ADS,Alliance Data Systems,Information Technology,Data Processing &amp; Outsourced Services
+ALL,Allstate Corp,Financials,Property &amp; Casualty Insurance
+GOOGL,Alphabet Inc Class A,Information Technology,Internet Software &amp; Services
+GOOG,Alphabet Inc Class C,Information Technology,Internet Software &amp; Services
+MO,Altria Group Inc,Consumer Staples,Tobacco
+AMZN,Amazon.com Inc,Consumer Discretionary,Internet Retail
+AEE,Ameren Corp,Utilities,MultiUtilities
+AAL,American Airlines Group,Industrials,Airlines
+AEP,American Electric Power,Utilities,Electric Utilities
+AXP,American Express Co,Financials,Consumer Finance
+AIG,American International Group, Inc.,Financials,Property &amp; Casualty Insurance
+AMT,American Tower Corp A,Financials,Specialized REITs
+AWK,American Water Works Company Inc,Utilities,Water Utilities
+AMP,Ameriprise Financial,Financials,Diversified Financial Services
+ABC,AmerisourceBergen Corp,Health Care,Health Care Distribution &amp; Services
+AME,Ametek,Industrials,Electrical Components &amp; Equipment
+AMGN,Amgen Inc,Health Care,Biotechnology
+APH,Amphenol Corp A,Industrials,Electrical Components &amp; Equipment
+APC,Anadarko Petroleum Corp,Energy,Oil &amp; Gas Exploration &amp; Production
+ADI,Analog Devices, Inc.,Information Technology,Semiconductors
+AON,Aon plc,Financials,Insurance Brokers
+APA,Apache Corporation,Energy,Oil &amp; Gas Exploration &amp; Production
+AIV,Apartment Investment &amp; Mgmt,Financials,REITs
+AAPL,Apple Inc.,Information Technology,Computer Hardware
+AMAT,Applied Materials Inc,Information Technology,Semiconductor Equipment
+ADM,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products
+AIZ,Assurant Inc,Financials,Multi-line Insurance
+T,AT&amp;T Inc,Telecommunications Services,Integrated Telecommunications Services
+ADSK,Autodesk Inc,Information Technology,Application Software
+ADP,Automatic Data Processing,Information Technology,Internet Software &amp; Services
+AN,AutoNation Inc,Consumer Discretionary,Specialty Stores
+AZO,AutoZone Inc,Consumer Discretionary,Specialty Stores
+AVGO,Avago Technologies,Information Technology,Semiconductors
+AVB,AvalonBay Communities, Inc.,Financials,Residential REITs
+AVY,Avery Dennison Corp,Materials,Paper Packaging
+BHI,Baker Hughes Inc,Energy,Oil &amp; Gas Equipment &amp; Services
+BLL,Ball Corp,Materials,Metal &amp; Glass Containers
+BAC,Bank of America Corp,Financials,Banks
+BK,The Bank of New York Mellon Corp.,Financials,Banks
+BCR,Bard (C.R.) Inc.,Health Care,Health Care Equipment &amp; Services
+BXLT,Baxalta,Health Care,Biotechnology
+BAX,Baxter International Inc.,Health Care,Health Care Equipment &amp; Services
+BBT,BB&amp;T Corporation,Financials,Banks
+BDX,Becton Dickinson,Health Care,Health Care Equipment &amp; Services
+BBBY,Bed Bath &amp; Beyond,Consumer Discretionary,Specialty Stores
+BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings
+BBY,Best Buy Co. Inc.,Consumer Discretionary,Computer &amp; Electronics Retail
+BIIB,BIOGEN IDEC Inc.,Health Care,Biotechnology
+BLK,BlackRock,Financials,Asset Management &amp; Custody Banks
+HRB,Block H&amp;R,Financials,Consumer Finance
+BA,Boeing Company,Industrials,Aerospace &amp; Defense
+BWA,BorgWarner,Consumer Discretionary,Auto Parts &amp; Equipment
+BXP,Boston Properties,Financials,REITs
+BSX,Boston Scientific,Health Care,Health Care Equipment &amp; Services
+BMY,Bristol-Myers Squibb,Health Care,Health Care Distributors &amp; Services
+BF-B,Brown-Forman Corporation,Consumer Staples,Distillers &amp; Vintners
+CHRW,C. H. Robinson Worldwide,Industrials,Air Freight &amp; Logistics
+CA,CA, Inc.,Information Technology,Systems Software
+CVC,Cablevision Systems Corp.,Consumer Discretionary,Broadcasting &amp; Cable TV
+COG,Cabot Oil &amp; Gas,Energy,Oil &amp; Gas Exploration &amp; Production
+CAM,Cameron International Corp.,Energy,Oil &amp; Gas Equipment &amp; Services
+CPB,Campbell Soup,Consumer Staples,Packaged Foods &amp; Meats
+COF,Capital One Financial,Financials,Consumer Finance
+CAH,Cardinal Health Inc.,Health Care,Health Care Distributors &amp; Services
+HSIC,Henry Schein,Health Care,Health Care Distributors &amp; Services
+KMX,Carmax Inc,Consumer Discretionary,Specialty Stores
+CCL,Carnival Corp.,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+CAT,Caterpillar Inc.,Industrials,Construction &amp; Farm Machinery &amp; Heavy Trucks
+CBG,CBRE Group,Financials,Real Estate Services
+CBS,CBS Corp.,Consumer Discretionary,Broadcasting &amp; Cable TV
+CELG,Celgene Corp.,Health Care,Biotechnology
+CNP,CenterPoint Energy,Utilities,MultiUtilities
+CTL,CenturyLink Inc,Telecommunications Services,Integrated Telecommunications Services
+CERN,Cerner,Health Care,Health Care Distributors &amp; Services
+CF,CF Industries Holdings Inc,Materials,Fertilizers &amp; Agricultural Chemicals
+SCHW,Charles Schwab Corporation,Financials,Investment Banking &amp; Brokerage
+CHK,Chesapeake Energy,Energy,Integrated Oil &amp; Gas
+CVX,Chevron Corp.,Energy,Integrated Oil &amp; Gas
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants
+CB,Chubb Limited,Financials,Property &amp; Casualty Insurance
+CHD,Church &amp; Dwight,Consumer Staples,Household Products
+CI,CIGNA Corp.,Health Care,Managed Health Care
+XEC,Cimarex Energy,Energy,Oil &amp; Gas Exploration &amp; Production
+CINF,Cincinnati Financial,Financials,Property &amp; Casualty Insurance
+CTAS,Cintas Corporation,Industrials,Diversified Support Services
+CSCO,Cisco Systems,Information Technology,Networking Equipment
+C,Citigroup Inc.,Financials,Banks
+CTXS,Citrix Systems,Information Technology,Internet Software &amp; Services
+CLX,The Clorox Company,Consumer Staples,Household Products
+CME,CME Group Inc.,Financials,Diversified Financial Services
+CMS,CMS Energy,Utilities,MultiUtilities
+COH,Coach Inc.,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+KO,The Coca Cola Company,Consumer Staples,Soft Drinks
+CCE,Coca-Cola Enterprises,Consumer Staples,Soft Drinks
+CTSH,Cognizant Technology Solutions,Information Technology,IT Consulting &amp; Services
+CL,Colgate-Palmolive,Consumer Staples,Household Products
+CPGX,Columbia Pipeline Group Inc,Energy,Oil &amp; Gas Storage &amp; Transportation
+CMCSA,Comcast A Corp,Consumer Discretionary,Broadcasting &amp; Cable TV
+CMA,Comerica Inc.,Financials,Banks
+CAG,ConAgra Foods Inc.,Consumer Staples,Packaged Foods &amp; Meats
+CXO,Concho Resources,Energy,Oil &amp; Gas Exploration &amp; Production
+COP,ConocoPhillips,Energy,Oil &amp; Gas Exploration &amp; Production
+ED,Consolidated Edison,Utilities,Electric Utilities
+STZ,Constellation Brands,Consumer Staples,Distillers &amp; Vintners
+GLW,Corning Inc.,Industrials,Construction &amp; Engineering
+COST,Costco Co.,Consumer Staples,Hypermarkets &amp; Super Centers
+CCI,Crown Castle International Corp.,Financials,REITs
+CSRA,CSRA Inc.,Information Technology,IT Consulting &amp; Services
+CSX,CSX Corp.,Industrials,Railroads
+CMI,Cummins Inc.,Industrials,Industrial Machinery
+CVS,CVS Caremark Corp.,Consumer Staples,Drug Retail
+DHI,D. R. Horton,Consumer Discretionary,Homebuilding
+DHR,Danaher Corp.,Industrials,Industrial Machinery
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants
+DVA,DaVita Inc.,Health Care,Health Care Facilities
+DE,Deere &amp; Co.,Industrials,Construction &amp; Farm Machinery &amp; Heavy Trucks
+DLPH,Delphi Automotive,Consumer Discretionary,Auto Parts &amp; Equipment
+DAL,Delta Air Lines,Industrials,Airlines
+XRAY,Dentsply Sirona,Health Care,Health Care Supplies
+DVN,Devon Energy Corp.,Energy,Oil &amp; Gas Exploration &amp; Production
+DO,Diamond Offshore Drilling,Energy,Oil &amp; Gas Drilling
+DFS,Discover Financial Services,Financials,Consumer Finance
+DISCA,Discovery Communications-A,Consumer Discretionary,Broadcasting &amp; Cable TV
+DISCK,Discovery Communications-C,Consumer Discretionary,Broadcasting &amp; Cable TV
+DG,Dollar General,Consumer Discretionary,General Merchandise Stores
+DLTR,Dollar Tree,Consumer Discretionary,General Merchandise Stores
+D,Dominion Resources,Utilities,Electric Utilities
+DOV,Dover Corp.,Industrials,Industrial Machinery
+DOW,Dow Chemical,Materials,Diversified Chemicals
+DPS,Dr Pepper Snapple Group,Consumer Staples,Soft Drinks
+DTE,DTE Energy Co.,Utilities,MultiUtilities
+DD,Du Pont (E.I.),Materials,Diversified Chemicals
+DUK,Duke Energy,Utilities,Electric Utilities
+DNB,Dun &amp; Bradstreet,Industrials,Data Processing Services
+ETFC,E*Trade,Financials,Investment Banking &amp; Brokerage
+EMN,Eastman Chemical,Materials,Diversified Chemicals
+ETN,Eaton Corporation,Industrials,Industrial Conglomerates
+EBAY,eBay Inc.,Information Technology,Internet Software &amp; Services
+ECL,Ecolab Inc.,Materials,Specialty Chemicals
+EIX,Edison Int'l,Utilities,Electric Utilities
+EW,Edwards Lifesciences,Health Care,Health Care Equipment &amp; Services
+EA,Electronic Arts,Information Technology,Home Entertainment Software
+EMC,EMC Corp.,Information Technology,IT Consulting &amp; Services
+EMR,Emerson Electric Company,Industrials,Industrial Conglomerates
+ENDP,Endo International,Health Care,Pharmaceuticals
+ESV,Ensco plc,Energy,Oil &amp; Gas Drilling
+ETR,Entergy Corp.,Utilities,Electric Utilities
+EOG,EOG Resources,Energy,Oil &amp; Gas Exploration &amp; Production
+EQT,EQT Corporation,Energy,Oil &amp; Gas Exploration &amp; Production
+EFX,Equifax Inc.,Financials,Diversified Financial Services
+EQIX,Equinix,Information Technology,Internet Software &amp; Services
+EQR,Equity Residential,Financials,REITs
+ESS,Essex Property Trust Inc,Financials,Residential REITs
+EL,Estee Lauder Cos.,Consumer Staples,Personal Products
+ES,Eversource Energy,Utilities,MultiUtilities
+EXC,Exelon Corp.,Utilities,MultiUtilities
+EXPE,Expedia Inc.,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+EXPD,Expeditors Int'l,Industrials,Air Freight &amp; Logistics
+ESRX,Express Scripts,Health Care,Health Care Distributors &amp; Services
+EXR,Extra Space Storage,Financials,Specialized REITs
+XOM,Exxon Mobil Corp.,Energy,Integrated Oil &amp; Gas
+FFIV,F5 Networks,Information Technology,Networking Equipment
+FB,Facebook,Information Technology,Internet Software &amp; Services
+FAST,Fastenal Co,Industrials,Building Products
+FRT,Federal Realty Investment Trust,Financials,Retail REITs
+FDX,FedEx Corporation,Industrials,Air Freight &amp; Logistics
+FIS,Fidelity National Information Services,Information Technology,Internet Software &amp; Services
+FITB,Fifth Third Bancorp,Financials,Banks
+FSLR,First Solar Inc,Information Technology,Semiconductors
+FE,FirstEnergy Corp,Utilities,Electric Utilities
+FISV,Fiserv Inc,Information Technology,Internet Software &amp; Services
+FLIR,FLIR Systems,Industrials,Aerospace &amp; Defense
+FLS,Flowserve Corporation,Industrials,Industrial Machinery
+FLR,Fluor Corp.,Industrials,Diversified Commercial Services
+FMC,FMC Corporation,Materials,Diversified Chemicals
+FTI,FMC Technologies Inc.,Energy,Oil &amp; Gas Equipment &amp; Services
+F,Ford Motor,Consumer Discretionary,Automobile Manufacturers
+BEN,Franklin Resources,Financials,Asset Management &amp; Custody Banks
+FCX,Freeport-McMoran Cp &amp; Gld,Materials,Diversified Metals &amp; Mining
+FTR,Frontier Communications,Telecommunications Services,Integrated Telecommunications Services
+GME,GameStop Corp.,Consumer Discretionary,Computer &amp; Electronics Retail
+GPS,Gap (The),Consumer Discretionary,Apparel Retail
+GRMN,Garmin Ltd.,Consumer Discretionary,Consumer Electronics
+GD,General Dynamics,Industrials,Aerospace &amp; Defense
+GE,General Electric,Industrials,Industrial Conglomerates
+GGP,General Growth Properties Inc.,Financials,REITs
+GIS,General Mills,Consumer Staples,Packaged Foods &amp; Meats
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers
+GPC,Genuine Parts,Consumer Discretionary,Specialty Stores
+GILD,Gilead Sciences,Health Care,Biotechnology
+GS,Goldman Sachs Group,Financials,Investment Banking &amp; Brokerage
+GT,Goodyear Tire &amp; Rubber,Consumer Discretionary,Tires &amp; Rubber
+GWW,Grainger (W.W.) Inc.,Industrials,Industrial Materials
+HAL,Halliburton Co.,Energy,Oil &amp; Gas Equipment &amp; Services
+HBI,Hanesbrands Inc,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+HOG,Harley-Davidson,Consumer Discretionary,Motorcycle Manufacturers
+HAR,Harman Int'l Industries,Consumer Discretionary,Consumer Electronics
+HRS,Harris Corporation,Information Technology,Telecommunications Equipment
+HIG,Hartford Financial Svc.Gp.,Financials,Property &amp; Casualty Insurance
+HAS,Hasbro Inc.,Consumer Discretionary,Leisure Products
+HCA,HCA Holdings,Health Care,Health Care Facilities
+HCP,HCP Inc.,Financials,REITs
+HP,Helmerich &amp; Payne,Energy,Oil &amp; Gas Drilling
+HES,Hess Corporation,Energy,Integrated Oil &amp; Gas
+HPE,Hewlett Packard Enterprise,Information Technology,Technology Hardware, Storage &amp; Peripherals
+HD,Home Depot,Consumer Discretionary,Home Improvement Retail
+HON,Honeywell Int'l Inc.,Industrials,Industrial Conglomerates
+HRL,Hormel Foods Corp.,Consumer Staples,Packaged Foods &amp; Meats
+HST,Host Hotels &amp; Resorts,Financials,REITs
+HPQ,HP Inc.,Information Technology,Computer Hardware
+HUM,Humana Inc.,Health Care,Managed Health Care
+HBAN,Huntington Bancshares,Financials,Banks
+ITW,Illinois Tool Works,Industrials,Industrial Machinery
+ILMN,Illumina Inc,Health Care,Life Sciences Tools &amp; Services
+IR,Ingersoll-Rand PLC,Industrials,Industrial Conglomerates
+INTC,Intel Corp.,Information Technology,Semiconductors
+ICE,Intercontinental Exchange,Financials,Diversified Financial Services
+IBM,International Bus. Machines,Information Technology,IT Consulting &amp; Services
+IP,International Paper,Materials,Paper Products
+IPG,Interpublic Group,Consumer Discretionary,Advertising
+IFF,Intl Flavors &amp; Fragrances,Materials,Specialty Chemicals
+INTU,Intuit Inc.,Information Technology,Internet Software &amp; Services
+ISRG,Intuitive Surgical Inc.,Health Care,Health Care Equipment &amp; Services
+IVZ,Invesco Ltd.,Financials,Asset Management &amp; Custody Banks
+IRM,Iron Mountain Incorporated,Industrials,Data Processing Services
+JEC,Jacobs Engineering Group,Industrials,Industrial Conglomerates
+JBHT,J. B. Hunt Transport Services,Industrials,Trucking
+JNJ,Johnson &amp; Johnson,Health Care,Health Care Equipment &amp; Services
+JCI,Johnson Controls,Consumer Discretionary,Auto Parts &amp; Equipment
+JPM,JPMorgan Chase &amp; Co.,Financials,Banks
+JNPR,Juniper Networks,Information Technology,Networking Equipment
+KSU,Kansas City Southern,Industrials,Railroads
+K,Kellogg Co.,Consumer Staples,Packaged Foods &amp; Meats
+KEY,KeyCorp,Financials,Banks
+KMB,Kimberly-Clark,Consumer Staples,Household Products
+KIM,Kimco Realty,Financials,REITs
+KMI,Kinder Morgan,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+KLAC,KLA-Tencor Corp.,Information Technology,Semiconductor Equipment
+KSS,Kohl's Corp.,Consumer Discretionary,General Merchandise Stores
+KHC,Kraft Heinz Co,Consumer Staples,Packaged Foods &amp; Meats
+KR,Kroger Co.,Consumer Staples,Food Retail
+LB,L Brands Inc.,Consumer Discretionary,Apparel Retail
+LLL,L-3 Communications Holdings,Industrials,Industrial Conglomerates
+LH,Laboratory Corp. of America Holding,Health Care,Health Care Facilities
+LRCX,Lam Research,Information Technology,Semiconductor Equipment
+LM,Legg Mason,Financials,Asset Management &amp; Custody Banks
+LEG,Leggett &amp; Platt,Industrials,Industrial Conglomerates
+LEN,Lennar Corp.,Consumer Discretionary,Homebuilding
+LVLT,Level 3 Communications,Telecommunications Services,Alternative Carriers
+LUK,Leucadia National Corp.,Financials,Multi-Sector Holdings
+LLY,Lilly (Eli) &amp; Co.,Health Care,Pharmaceuticals
+LNC,Lincoln National,Financials,Multi-line Insurance
+LLTC,Linear Technology Corp.,Information Technology,Semiconductors
+LMT,Lockheed Martin Corp.,Industrials,Aerospace &amp; Defense
+L,Loews Corp.,Financials,Multi-Sector Holdings
+LOW,Lowe's Cos.,Consumer Discretionary,Home Improvement Retail
+LYB,LyondellBasell,Materials,Diversified Chemicals
+MTB,M&amp;T Bank Corp.,Financials,Banks
+MAC,Macerich,Financials,Retail REITs
+M,Macy's Inc.,Consumer Discretionary,Department Stores
+MNK,Mallinckrodt Plc,Health Care,Pharmaceuticals
+MRO,Marathon Oil Corp.,Energy,Oil &amp; Gas Exploration &amp; Production
+MPC,Marathon Petroleum,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+MAR,Marriott Int'l.,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+MMC,Marsh &amp; McLennan,Financials,Insurance Brokers
+MLM,Martin Marietta Materials,Materials,Construction Materials
+MAS,Masco Corp.,Industrials,Building Products
+MA,Mastercard Inc.,Information Technology,Internet Software &amp; Services
+MAT,Mattel Inc.,Consumer Discretionary,Leisure Products
+MKC,McCormick &amp; Co.,Consumer Staples,Packaged Foods &amp; Meats
+MCD,McDonald's Corp.,Consumer Discretionary,Restaurants
+MHFI,McGraw Hill Financial,Financials,Diversified Financial Services
+MCK,McKesson Corp.,Health Care,Health Care Distributors &amp; Services
+MJN,Mead Johnson,Consumer Staples,Packaged Foods &amp; Meats
+WRK,Westrock Co,Materials,Paper Packaging
+MDT,Medtronic plc,Health Care,Health Care Equipment &amp; Services
+MRK,Merck &amp; Co.,Health Care,Pharmaceuticals
+MET,MetLife Inc.,Financials,Life &amp; Health Insurance
+KORS,Michael Kors Holdings,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+MCHP,Microchip Technology,Information Technology,Semiconductors
+MU,Micron Technology,Information Technology,Semiconductors
+MSFT,Microsoft Corp.,Information Technology,Systems Software
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings
+TAP,Molson Coors Brewing Company,Consumer Staples,Brewers
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods &amp; Meats
+MON,Monsanto Co.,Materials,Fertilizers &amp; Agricultural Chemicals
+MNST,Monster Beverage,Consumer Staples,Soft Drinks
+MCO,Moody's Corp,Financials,Diversified Financial Services
+MS,Morgan Stanley,Financials,Investment Banking &amp; Brokerage
+MOS,The Mosaic Company,Materials,Fertilizers &amp; Agricultural Chemicals
+MSI,Motorola Solutions Inc.,Information Technology,Telecommunications Equipment
+MUR,Murphy Oil,Energy,Integrated Oil &amp; Gas
+MYL,Mylan N.V.,Health Care,Pharmaceuticals
+NDAQ,NASDAQ OMX Group,Financials,Diversified Financial Services
+NOV,National Oilwell Varco Inc.,Energy,Oil &amp; Gas Equipment &amp; Services
+NAVI,Navient,Financials,Consumer Finance
+NTAP,NetApp,Information Technology,Internet Software &amp; Services
+NFLX,Netflix Inc.,Information Technology,Internet Software &amp; Services
+NWL,Newell Rubbermaid Co.,Consumer Discretionary,Housewares &amp; Specialties
+NFX,Newfield Exploration Co,Energy,Oil &amp; Gas Exploration &amp; Production
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,Gold
+NWSA,News Corp. Class A,Consumer Discretionary,Publishing
+NWS,News Corp. Class B,Consumer Discretionary,Publishing
+NEE,NextEra Energy,Utilities,MultiUtilities
+NLSN,Nielsen Holdings,Industrials,Research &amp; Consulting Services
+NKE,Nike,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+NI,NiSource Inc.,Utilities,MultiUtilities
+NBL,Noble Energy Inc,Energy,Oil &amp; Gas Exploration &amp; Production
+JWN,Nordstrom,Consumer Discretionary,Department Stores
+NSC,Norfolk Southern Corp.,Industrials,Railroads
+NTRS,Northern Trust Corp.,Financials,Asset Management &amp; Custody Banks
+NOC,Northrop Grumman Corp.,Industrials,Aerospace &amp; Defense
+NRG,NRG Energy,Utilities,Independent Power Producers &amp; Energy Traders
+NUE,Nucor Corp.,Materials,Steel
+NVDA,Nvidia Corporation,Information Technology,Semiconductors
+ORLY,O'Reilly Automotive,Consumer Discretionary,Specialty Stores
+OXY,Occidental Petroleum,Energy,Oil &amp; Gas Exploration &amp; Production
+OMC,Omnicom Group,Consumer Discretionary,Advertising
+OKE,ONEOK,Energy,Oil &amp; Gas Exploration &amp; Production
+ORCL,Oracle Corp.,Information Technology,Application Software
+OI,Owens-Illinois Inc,Materials,Metal &amp; Glass Containers
+PCAR,PACCAR Inc.,Industrials,Construction &amp; Farm Machinery &amp; Heavy Trucks
+PH,Parker-Hannifin,Industrials,Industrial Conglomerates
+PDCO,Patterson Companies,Health Care,Health Care Supplies
+PAYX,Paychex Inc.,Information Technology,Internet Software &amp; Services
+PYPL,PayPal,Information Technology,Data Processing &amp; Outsourced Services
+PNR,Pentair Ltd.,Industrials,Industrial Conglomerates
+PBCT,People's United Financial,Financials,Thrifts &amp; Mortgage Finance
+POM,Pepco Holdings Inc.,Utilities,Electric Utilities
+PEP,PepsiCo Inc.,Consumer Staples,Soft Drinks
+PKI,PerkinElmer,Health Care,Health Care Equipment &amp; Services
+PRGO,Perrigo,Health Care,Pharmaceuticals
+PFE,Pfizer Inc.,Health Care,Pharmaceuticals
+PCG,PG&amp;E Corp.,Utilities,MultiUtilities
+PM,Philip Morris International,Consumer Staples,Tobacco
+PSX,Phillips 66,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+PNW,Pinnacle West Capital,Utilities,MultiUtilities
+PXD,Pioneer Natural Resources,Energy,Oil &amp; Gas Exploration &amp; Production
+PBI,Pitney-Bowes,Industrials,Office Services &amp; Supplies
+PNC,PNC Financial Services,Financials,Banks
+RL,Polo Ralph Lauren Corp.,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+PPG,PPG Industries,Materials,Diversified Chemicals
+PPL,PPL Corp.,Utilities,Electric Utilities
+PX,Praxair Inc.,Materials,Industrial Gases
+CFG,Citizens Financial Group,Financials,Banks
+PCLN,Priceline.com Inc,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+PFG,Principal Financial Group,Financials,Diversified Financial Services
+PG,Procter &amp; Gamble,Consumer Staples,Personal Products
+PGR,Progressive Corp.,Financials,Property &amp; Casualty Insurance
+PLD,Prologis,Financials,Diversified Financial Services
+PRU,Prudential Financial,Financials,Diversified Financial Services
+PEG,Public Serv. Enterprise Inc.,Utilities,Electric Utilities
+PSA,Public Storage,Financials,REITs
+PHM,Pulte Homes Inc.,Consumer Discretionary,Homebuilding
+PVH,PVH Corp.,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+QRVO,Qorvo,Information Technology,Semiconductors
+PWR,Quanta Services Inc.,Industrials,Industrial Conglomerates
+QCOM,QUALCOMM Inc.,Information Technology,Semiconductors
+DGX,Quest Diagnostics,Health Care,Health Care Facilities
+RRC,Range Resources Corp.,Energy,Oil &amp; Gas Exploration &amp; Production
+RTN,Raytheon Co.,Industrials,Aerospace &amp; Defense
+O,Realty Income Corporation,Financials,REITs
+RHT,Red Hat Inc.,Information Technology,Systems Software
+REGN,Regeneron,Health Care,Biotechnology
+RF,Regions Financial Corp.,Financials,Diversified Financial Services
+RSG,Republic Services Inc,Industrials,Industrial Conglomerates
+RAI,Reynolds American Inc.,Consumer Staples,Tobacco
+RHI,Robert Half International,Industrials,Human Resource &amp; Employment Services
+ROK,Rockwell Automation Inc.,Industrials,Industrial Conglomerates
+COL,Rockwell Collins,Industrials,Industrial Conglomerates
+ROP,Roper Industries,Industrials,Industrial Conglomerates
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail
+RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+R,Ryder System,Industrials,Industrial Conglomerates
+CRM,Salesforce.com,Information Technology,Internet Software &amp; Services
+SNDK,SanDisk Corporation,Information Technology,Computer Storage &amp; Peripherals
+SCG,SCANA Corp,Utilities,MultiUtilities
+SLB,Schlumberger Ltd.,Energy,Oil &amp; Gas Equipment &amp; Services
+SNI,Scripps Networks Interactive Inc.,Consumer Discretionary,Broadcasting &amp; Cable TV
+STX,Seagate Technology,Information Technology,Computer Storage &amp; Peripherals
+SEE,Sealed Air Corp.(New),Materials,Paper Packaging
+SRE,Sempra Energy,Utilities,MultiUtilities
+SHW,Sherwin-Williams,Materials,Specialty Chemicals
+SIG,Signet Jewelers,Consumer Discretionary,Specialty Stores
+SPG,Simon Property Group Inc,Financials,REITs
+SWKS,Skyworks Solutions,Information Technology,Semiconductors
+SLG,SL Green Realty,Financials,Office REITs
+SJM,Smucker (J.M.),Consumer Staples,Packaged Foods &amp; Meats
+SNA,Snap-On Inc.,Consumer Discretionary,Household Appliances
+SO,Southern Co.,Utilities,Electric Utilities
+LUV,Southwest Airlines,Industrials,Airlines
+SWN,Southwestern Energy,Energy,Oil &amp; Gas Exploration &amp; Production
+SE,Spectra Energy Corp.,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+STJ,St Jude Medical,Health Care,Health Care Equipment &amp; Services
+SWK,Stanley Black &amp; Decker,Consumer Discretionary,Household Appliances
+SPLS,Staples Inc.,Consumer Discretionary,Specialty Stores
+SBUX,Starbucks Corp.,Consumer Discretionary,Restaurants
+HOT,Starwood Hotels &amp; Resorts,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+STT,State Street Corp.,Financials,Diversified Financial Services
+SRCL,Stericycle Inc,Industrials,Industrial Conglomerates
+SYK,Stryker Corp.,Health Care,Health Care Equipment &amp; Services
+STI,SunTrust Banks,Financials,Banks
+SYMC,Symantec Corp.,Information Technology,Application Software
+SYF,Synchrony Financial,Financials,Consumer Finance
+SYY,Sysco Corp.,Consumer Staples,Food Distributors
+TROW,T. Rowe Price Group,Financials,Diversified Financial Services
+TGT,Target Corp.,Consumer Discretionary,General Merchandise Stores
+TEL,TE Connectivity Ltd.,Information Technology,Electronic Equipment &amp; Instruments
+TE,TECO Energy,Utilities,Electric Utilities
+TGNA,Tegna,Consumer Discretionary,Publishing
+THC,Tenet Healthcare Corp.,Health Care,Health Care Facilities
+TDC,Teradata Corp.,Information Technology,Application Software
+TSO,Tesoro Petroleum Co.,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+TXN,Texas Instruments,Information Technology,Semiconductors
+TXT,Textron Inc.,Industrials,Industrial Conglomerates
+HSY,The Hershey Company,Consumer Staples,Packaged Foods &amp; Meats
+TRV,The Travelers Companies Inc.,Financials,Property &amp; Casualty Insurance
+TMO,Thermo Fisher Scientific,Health Care,Health Care Equipment &amp; Services
+TIF,Tiffany &amp; Co.,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+TWX,Time Warner Inc.,Consumer Discretionary,Broadcasting &amp; Cable TV
+TWC,Time Warner Cable Inc.,Consumer Discretionary,Broadcasting &amp; Cable TV
+TJX,TJX Companies Inc.,Consumer Discretionary,Apparel Retail
+TMK,Torchmark Corp.,Financials,Life &amp; Health Insurance
+TSS,Total System Services,Information Technology,Internet Software &amp; Services
+TSCO,Tractor Supply Company,Consumer Discretionary,Specialty Retail
+RIG,Transocean,Energy,Oil &amp; Gas Drilling
+TRIP,TripAdvisor,Consumer Discretionary,Internet Retail
+FOXA,Twenty-First Century Fox Class A,Consumer Discretionary,Publishing
+FOX,Twenty-First Century Fox Class B,Consumer Discretionary,Publishing
+TSN,Tyson Foods,Consumer Staples,Packaged Foods &amp; Meats
+TYC,Tyco International,Industrials,Industrial Conglomerates
+UDR,UDR Inc,Financials,Residential REITs
+USB,U.S. Bancorp,Financials,Banks
+UA,Under Armour,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+UNP,Union Pacific,Industrials,Railroads
+UAL,United Continental Holdings,Industrials,Airlines
+UNH,United Health Group Inc.,Health Care,Managed Health Care
+UPS,United Parcel Service,Industrials,Air Freight &amp; Logistics
+URI,United Rentals, Inc.,Industrials,Trading Companies &amp; Distributors
+UTX,United Technologies,Industrials,Industrial Conglomerates
+UHS,Universal Health Services, Inc.,Health Care,Health Care Facilities
+UNM,Unum Group,Financials,Diversified Financial Services
+URBN,Urban Outfitters,Consumer Discretionary,Apparel Retail
+VFC,V.F. Corp.,Consumer Discretionary,Apparel, Accessories &amp; Luxury Goods
+VLO,Valero Energy,Energy,Oil &amp; Gas Refining &amp; Marketing &amp; Transportation
+VAR,Varian Medical Systems,Health Care,Health Care Equipment &amp; Services
+VTR,Ventas Inc,Financials,Diversified Financial Services
+VRSN,Verisign Inc.,Information Technology,Internet Software &amp; Services
+VRSK,Verisk Analytics,Industrials,Research &amp; Consulting Services
+VZ,Verizon Communications,Telecommunications Services,Integrated Telecommunications Services
+VRTX,Vertex Pharmaceuticals Inc,Health Care,Biotechnology
+VIAB,Viacom Inc.,Consumer Discretionary,Broadcasting &amp; Cable TV
+V,Visa Inc.,Information Technology,Internet Software &amp; Services
+VNO,Vornado Realty Trust,Financials,REITs
+VMC,Vulcan Materials,Materials,Construction Materials
+WMT,Wal-Mart Stores,Consumer Staples,Hypermarkets &amp; Super Centers
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail
+DIS,The Walt Disney Company,Consumer Discretionary,Broadcasting &amp; Cable TV
+WM,Waste Management Inc.,Industrials,Environmental Services
+WAT,Waters Corporation,Health Care,Health Care Distributors &amp; Services
+ANTM,Anthem Inc.,Health Care,Managed Health Care
+WFC,Wells Fargo,Financials,Banks
+HCN,Welltower Inc.,Financials,REITs
+WDC,Western Digital,Information Technology,Computer Storage &amp; Peripherals
+WU,Western Union Co,Information Technology,Internet Software &amp; Services
+WY,Weyerhaeuser Corp.,Financials,REITs
+WHR,Whirlpool Corp.,Consumer Discretionary,Household Appliances
+WFM,Whole Foods Market,Consumer Staples,Food Retail
+WMB,Williams Cos.,Energy,Oil &amp; Gas Exploration &amp; Production
+WLTW,Willis Towers Watson,Financials,Insurance Brokers
+WEC,Wisconsin Energy Corporation,Utilities,Electric Utilities
+WYN,Wyndham Worldwide,Consumer Discretionary,Hotels, Resorts &amp; Cruise Lines
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,Casinos &amp; Gaming
+XEL,Xcel Energy Inc,Utilities,MultiUtilities
+XRX,Xerox Corp.,Information Technology,IT Consulting &amp; Services
+XLNX,Xilinx Inc,Information Technology,Semiconductors
+XL,XL Capital,Financials,Property &amp; Casualty Insurance
+XYL,Xylem Inc.,Industrials,Industrial Conglomerates
+YHOO,Yahoo Inc.,Information Technology,Internet Software &amp; Services
+YUM,Yum! Brands Inc,Consumer Discretionary,Restaurants
+ZBH,Zimmer Biomet Holdings,Health Care,Health Care Equipment &amp; Services
+ZION,Zions Bancorp,Financials,Banks
+ZTS,Zoetis,Health Care,Pharmaceuticals
