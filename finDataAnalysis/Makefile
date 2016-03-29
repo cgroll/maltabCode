@@ -1,3 +1,10 @@
+# NOTES and COMMENTS:
+# - NEVER commit when targets are not up to date
+#   ALWAYS run make before committing
+# - dependencies should not be in submodule:
+# 	 downloading submodule after normal repo will mess up timestamp
+# - data output files may be in submodule
+# - use make --dry-run to see what would happen
 
 # gnu makefile for cfm
 
@@ -51,14 +58,12 @@ all: $(DATA_FULL_NAMES) $(ALL_PICS_FULL_NAMES)
 ###############################################
 
 # get SP500 ticker symbols from Wikipedia
-$(PUBLIC_DATA_DIR)/SP500TickerTable.csv: ../commonUtilities/dataDownload/getSP500TickerTable.m
-	matlab -nodesktop -nosplash -nodisplay -r "cd('../commonUtilities/dataDownload'); getSP500TickerTable; exit"
+$(PUBLIC_DATA_DIR)/SP500TickerTable.csv: data_src/dwnloadSP500Tickers.m
+	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); dwnloadSP500Tickers; exit"
 
 # download SP500 data from Yahoo finance
-$(PRIVATE_DATA_DIR)/rawData/sp500Prices.csv: ../commonUtilities/dataDownload/getSP500.m
-	matlab -nodesktop -nosplash -nodisplay -r "cd('../commonUtilities/dataDownload'); getSP500; exit"
-
-
+$(PRIVATE_DATA_DIR)/rawData/sp500Prices.csv: data_src/dwnloadSP500Components.m
+	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); dwnloadSP500Components; exit"
 
 # recipe for graphics
 $(addprefix $(PICS_DIR)/,$(PICS_FILE_NAMES)): $(PICS_DIR)/%-1.svg: $(PICS_SRC)/%.jl
