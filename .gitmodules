@@ -4,3 +4,6 @@
 [submodule "finDataMatlab/private_data"]
 	path = finDataMatlab/private_data
 	url = git@gitlab.com:cgroll/private_data.git
+[submodule "scacapFuncs"]
+	path = scacapFuncs
+	url = git@gitlab.com:cgroll/scacapFuncs.git
