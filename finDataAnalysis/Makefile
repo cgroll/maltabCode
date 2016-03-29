@@ -28,7 +28,7 @@ PICS_SRC := src
 # PRIV_DATA_NAMES := $(SP500_RAW_DATA) $(SP500_PROCESSED_DATA)
 # PRIV_DATA_FULL_NAMES := $(addprefix $(PRIV_DATA_DIR)/,$(PRIV_DATA_NAMES))
 
-DATA_FULL_NAMES := $(PUBLIC_DATA_DIR)/SP500TickerTable.csv $(PRIVATE_DATA_DIR)/rawData/sp500Prices.csv
+DATA_FULL_NAMES := $(PUBLIC_DATA_DIR)/SP500TickerTable.csv $(PRIV_DATA_DIR)/rawData/sp500Prices.csv
 
 # ################################################
 # ############## CREATION OF PDFS
@@ -62,7 +62,8 @@ $(PUBLIC_DATA_DIR)/SP500TickerTable.csv: data_src/dwnloadSP500Tickers.m
 	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); dwnloadSP500Tickers; exit"
 
 # download SP500 data from Yahoo finance
-$(PRIVATE_DATA_DIR)/rawData/sp500Prices.csv: data_src/dwnloadSP500Components.m
+$(PRIV_DATA_DIR)/rawData/sp500Prices.csv: data_src/dwnloadSP500Components.m
+	echo "target $@"
 	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); dwnloadSP500Components; exit"
 
 # recipe for graphics
