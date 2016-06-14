@@ -28,7 +28,9 @@ PICS_SRC := src
 # PRIV_DATA_NAMES := $(SP500_RAW_DATA) $(SP500_PROCESSED_DATA)
 # PRIV_DATA_FULL_NAMES := $(addprefix $(PRIV_DATA_DIR)/,$(PRIV_DATA_NAMES))
 
-DATA_FULL_NAMES := $(PUBLIC_DATA_DIR)/SP500TickerTable.csv $(PRIV_DATA_DIR)/rawData/sp500Prices.csv
+DATA_FULL_NAMES := $(PUBLIC_DATA_DIR)/SP500TickerTable.csv $(PRIV_DATA_DIR)/rawData/sp500Prices.csv $(PRIV_DATA_DIR)/rawData/paramsData_FED.csv $(PRIV_DATA_DIR)/rawData/yieldData_FED.csv
+
+RAW_DATA_FED_NAME := $(PRIV_DATA_DIR)/rawData/feds200628/feds200628.xml
 
 # ################################################
 # ############## CREATION OF PDFS
@@ -65,6 +67,20 @@ $(PUBLIC_DATA_DIR)/SP500TickerTable.csv: data_src/dwnloadSP500Tickers.m
 $(PRIV_DATA_DIR)/rawData/sp500Prices.csv: data_src/dwnloadSP500Components.m
 	echo "target $@"
 	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); dwnloadSP500Components; exit"
+
+######### FED data
+# NOTE: JAVA heap size needs to be increased!
+
+# process FED data from XML format
+$(PRIV_DATA_DIR)/rawData/yieldData_FED.csv: data_src/processFEDyieldData.m $(RAW_DATA_FED_NAME)
+	echo "target $@"
+	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); processFEDyieldData; exit"
+
+# process FED data from XML format
+$(PRIV_DATA_DIR)/rawData/paramsData_FED.csv: data_src/processFEDyieldData.m $(RAW_DATA_FED_NAME)
+	echo "target $@"
+	matlab -nodesktop -nosplash -nodisplay -r "cd('data_src'); processFEDyieldData; exit"
+
 
 # recipe for graphics
 $(addprefix $(PICS_DIR)/,$(PICS_FILE_NAMES)): $(PICS_DIR)/%-1.svg: $(PICS_SRC)/%.jl
